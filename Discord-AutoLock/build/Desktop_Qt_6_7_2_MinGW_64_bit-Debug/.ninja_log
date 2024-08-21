@@ -1,0 +1,10 @@
+# ninja log v6
+4	128	7459460440218472	D:/dev/Github/Discord-AutoLock/Discord-AutoLock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	e832dc24c66a718f
+130	872	7459460447980094	Discord-AutoLock_autogen/timestamp	1bebf644577b134b
+130	872	7459460447980094	Discord-AutoLock_autogen/mocs_compilation.cpp	1bebf644577b134b
+130	872	7459460447980094	D:/dev/Github/Discord-AutoLock/Discord-AutoLock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Discord-AutoLock_autogen/timestamp	1bebf644577b134b
+130	872	7459460447980094	D:/dev/Github/Discord-AutoLock/Discord-AutoLock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Discord-AutoLock_autogen/mocs_compilation.cpp	1bebf644577b134b
+882	3226	7459460449000104	CMakeFiles/Discord-AutoLock.dir/Discord-AutoLock_autogen/mocs_compilation.cpp.obj	79f3befa988fd554
+887	3245	7459460449060123	CMakeFiles/Discord-AutoLock.dir/main.cpp.obj	4ad7a4c29794309b
+893	3246	7459460449110117	CMakeFiles/Discord-AutoLock.dir/mainwindow.cpp.obj	9928060db392d080
+3246	3854	7459460472648847	Discord-AutoLock.exe	f9af8bf92538e85a
